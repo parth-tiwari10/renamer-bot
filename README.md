@@ -33,7 +33,7 @@ python bot.py
 
 * [TG Bots Updates](https://telegram.dog/hindispot_family)
 
-* [InFoTel Group](https://telegram.dog/hindispot_family)
+* [Hindispot_family Group](https://telegram.dog/hindispot_family)
 
 ## Credits, and Thanks to
 
